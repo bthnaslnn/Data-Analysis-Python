@@ -1,2 +1,2 @@
 
-This is a graduation project. Data analysis was carried out with Python in the final project.
+This is a finishing project. Data analysis was performed using Python in the project.
